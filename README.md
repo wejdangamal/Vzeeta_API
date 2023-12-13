@@ -3,7 +3,6 @@
 The API supports three roles: admin, doctor, and patient, each of them with specific Features.
 API secured using JWT Authentication
 API Provides Sending Emails Using Gmail
-#Features:
 ## Admin Role Features:
 ### Admin Dashboard:-
 - Dashboard with statistics (number of Doctors, Patients, Requests(Completed, Pending, Cancelled)).
@@ -26,6 +25,6 @@ API Provides Sending Emails Using Gmail
 - Search for doctors and booking appointments
 - Cancel booking request
 - View personal booking history
-#Project ERD
+# Project ERD
 ![Screenshot (217)](https://github.com/wejdangamal/Vzeeta_API/assets/73383355/1556932b-20d7-4cf0-aa05-8d7dc7d39738)
 
