@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Source\\VzeetaApp\\VzeetaApp.csproj": {}
+    "D:\\Vzeeta_Api\\VzeetaApp\\VzeetaApp.csproj": {}
   },
   "projects": {
-    "D:\\Source\\InjiectionServices.Inject\\InjiectionServices.Inject.csproj": {
+    "D:\\Vzeeta_Api\\InjiectionServices.Inject\\InjiectionServices.Inject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Source\\InjiectionServices.Inject\\InjiectionServices.Inject.csproj",
+        "projectUniqueName": "D:\\Vzeeta_Api\\InjiectionServices.Inject\\InjiectionServices.Inject.csproj",
         "projectName": "InjiectionServices.Inject",
-        "projectPath": "D:\\Source\\InjiectionServices.Inject\\InjiectionServices.Inject.csproj",
+        "projectPath": "D:\\Vzeeta_Api\\InjiectionServices.Inject\\InjiectionServices.Inject.csproj",
         "packagesPath": "C:\\Users\\Wegdan\\.nuget\\packages\\",
-        "outputPath": "D:\\Source\\InjiectionServices.Inject\\obj\\",
+        "outputPath": "D:\\Vzeeta_Api\\InjiectionServices.Inject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wegdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Source\\Vzeeta.Repository\\Vzeeta.Repository.csproj": {
-                "projectPath": "D:\\Source\\Vzeeta.Repository\\Vzeeta.Repository.csproj"
+              "D:\\Vzeeta_Api\\Vzeeta.Repository\\Vzeeta.Repository.csproj": {
+                "projectPath": "D:\\Vzeeta_Api\\Vzeeta.Repository\\Vzeeta.Repository.csproj"
               },
-              "D:\\Source\\Vzeeta.Services\\Vzeeta.Services.csproj": {
-                "projectPath": "D:\\Source\\Vzeeta.Services\\Vzeeta.Services.csproj"
+              "D:\\Vzeeta_Api\\Vzeeta.Services\\Vzeeta.Services.csproj": {
+                "projectPath": "D:\\Vzeeta_Api\\Vzeeta.Services\\Vzeeta.Services.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "D:\\Source\\Vzeeta.Core\\Vzeeta.Core.csproj": {
+    "D:\\Vzeeta_Api\\Vzeeta.Core\\Vzeeta.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Source\\Vzeeta.Core\\Vzeeta.Core.csproj",
+        "projectUniqueName": "D:\\Vzeeta_Api\\Vzeeta.Core\\Vzeeta.Core.csproj",
         "projectName": "Vzeeta.Core",
-        "projectPath": "D:\\Source\\Vzeeta.Core\\Vzeeta.Core.csproj",
+        "projectPath": "D:\\Vzeeta_Api\\Vzeeta.Core\\Vzeeta.Core.csproj",
         "packagesPath": "C:\\Users\\Wegdan\\.nuget\\packages\\",
-        "outputPath": "D:\\Source\\Vzeeta.Core\\obj\\",
+        "outputPath": "D:\\Vzeeta_Api\\Vzeeta.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wegdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -145,14 +145,14 @@
         }
       }
     },
-    "D:\\Source\\Vzeeta.Data\\Vzeeta.Data.csproj": {
+    "D:\\Vzeeta_Api\\Vzeeta.Data\\Vzeeta.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Source\\Vzeeta.Data\\Vzeeta.Data.csproj",
+        "projectUniqueName": "D:\\Vzeeta_Api\\Vzeeta.Data\\Vzeeta.Data.csproj",
         "projectName": "Vzeeta.Data",
-        "projectPath": "D:\\Source\\Vzeeta.Data\\Vzeeta.Data.csproj",
+        "projectPath": "D:\\Vzeeta_Api\\Vzeeta.Data\\Vzeeta.Data.csproj",
         "packagesPath": "C:\\Users\\Wegdan\\.nuget\\packages\\",
-        "outputPath": "D:\\Source\\Vzeeta.Data\\obj\\",
+        "outputPath": "D:\\Vzeeta_Api\\Vzeeta.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wegdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -169,8 +169,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Source\\Vzeeta.Core\\Vzeeta.Core.csproj": {
-                "projectPath": "D:\\Source\\Vzeeta.Core\\Vzeeta.Core.csproj"
+              "D:\\Vzeeta_Api\\Vzeeta.Core\\Vzeeta.Core.csproj": {
+                "projectPath": "D:\\Vzeeta_Api\\Vzeeta.Core\\Vzeeta.Core.csproj"
               }
             }
           }
@@ -226,14 +226,14 @@
         }
       }
     },
-    "D:\\Source\\Vzeeta.Repository\\Vzeeta.Repository.csproj": {
+    "D:\\Vzeeta_Api\\Vzeeta.Repository\\Vzeeta.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Source\\Vzeeta.Repository\\Vzeeta.Repository.csproj",
+        "projectUniqueName": "D:\\Vzeeta_Api\\Vzeeta.Repository\\Vzeeta.Repository.csproj",
         "projectName": "Vzeeta.Repository",
-        "projectPath": "D:\\Source\\Vzeeta.Repository\\Vzeeta.Repository.csproj",
+        "projectPath": "D:\\Vzeeta_Api\\Vzeeta.Repository\\Vzeeta.Repository.csproj",
         "packagesPath": "C:\\Users\\Wegdan\\.nuget\\packages\\",
-        "outputPath": "D:\\Source\\Vzeeta.Repository\\obj\\",
+        "outputPath": "D:\\Vzeeta_Api\\Vzeeta.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wegdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -250,11 +250,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Source\\Vzeeta.Core\\Vzeeta.Core.csproj": {
-                "projectPath": "D:\\Source\\Vzeeta.Core\\Vzeeta.Core.csproj"
+              "D:\\Vzeeta_Api\\Vzeeta.Core\\Vzeeta.Core.csproj": {
+                "projectPath": "D:\\Vzeeta_Api\\Vzeeta.Core\\Vzeeta.Core.csproj"
               },
-              "D:\\Source\\Vzeeta.Data\\Vzeeta.Data.csproj": {
-                "projectPath": "D:\\Source\\Vzeeta.Data\\Vzeeta.Data.csproj"
+              "D:\\Vzeeta_Api\\Vzeeta.Data\\Vzeeta.Data.csproj": {
+                "projectPath": "D:\\Vzeeta_Api\\Vzeeta.Data\\Vzeeta.Data.csproj"
               }
             }
           }
@@ -298,14 +298,14 @@
         }
       }
     },
-    "D:\\Source\\Vzeeta.Services\\Vzeeta.Services.csproj": {
+    "D:\\Vzeeta_Api\\Vzeeta.Services\\Vzeeta.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Source\\Vzeeta.Services\\Vzeeta.Services.csproj",
+        "projectUniqueName": "D:\\Vzeeta_Api\\Vzeeta.Services\\Vzeeta.Services.csproj",
         "projectName": "Vzeeta.Services",
-        "projectPath": "D:\\Source\\Vzeeta.Services\\Vzeeta.Services.csproj",
+        "projectPath": "D:\\Vzeeta_Api\\Vzeeta.Services\\Vzeeta.Services.csproj",
         "packagesPath": "C:\\Users\\Wegdan\\.nuget\\packages\\",
-        "outputPath": "D:\\Source\\Vzeeta.Services\\obj\\",
+        "outputPath": "D:\\Vzeeta_Api\\Vzeeta.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wegdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -322,14 +322,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Source\\Vzeeta.Core\\Vzeeta.Core.csproj": {
-                "projectPath": "D:\\Source\\Vzeeta.Core\\Vzeeta.Core.csproj"
+              "D:\\Vzeeta_Api\\Vzeeta.Core\\Vzeeta.Core.csproj": {
+                "projectPath": "D:\\Vzeeta_Api\\Vzeeta.Core\\Vzeeta.Core.csproj"
               },
-              "D:\\Source\\Vzeeta.Data\\Vzeeta.Data.csproj": {
-                "projectPath": "D:\\Source\\Vzeeta.Data\\Vzeeta.Data.csproj"
+              "D:\\Vzeeta_Api\\Vzeeta.Data\\Vzeeta.Data.csproj": {
+                "projectPath": "D:\\Vzeeta_Api\\Vzeeta.Data\\Vzeeta.Data.csproj"
               },
-              "D:\\Source\\Vzeeta.Repository\\Vzeeta.Repository.csproj": {
-                "projectPath": "D:\\Source\\Vzeeta.Repository\\Vzeeta.Repository.csproj"
+              "D:\\Vzeeta_Api\\Vzeeta.Repository\\Vzeeta.Repository.csproj": {
+                "projectPath": "D:\\Vzeeta_Api\\Vzeeta.Repository\\Vzeeta.Repository.csproj"
               }
             }
           }
@@ -389,14 +389,14 @@
         }
       }
     },
-    "D:\\Source\\VzeetaApp\\VzeetaApp.csproj": {
+    "D:\\Vzeeta_Api\\VzeetaApp\\VzeetaApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Source\\VzeetaApp\\VzeetaApp.csproj",
+        "projectUniqueName": "D:\\Vzeeta_Api\\VzeetaApp\\VzeetaApp.csproj",
         "projectName": "VzeetaApp",
-        "projectPath": "D:\\Source\\VzeetaApp\\VzeetaApp.csproj",
+        "projectPath": "D:\\Vzeeta_Api\\VzeetaApp\\VzeetaApp.csproj",
         "packagesPath": "C:\\Users\\Wegdan\\.nuget\\packages\\",
-        "outputPath": "D:\\Source\\VzeetaApp\\obj\\",
+        "outputPath": "D:\\Vzeeta_Api\\VzeetaApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wegdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -413,17 +413,17 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Source\\InjiectionServices.Inject\\InjiectionServices.Inject.csproj": {
-                "projectPath": "D:\\Source\\InjiectionServices.Inject\\InjiectionServices.Inject.csproj"
+              "D:\\Vzeeta_Api\\InjiectionServices.Inject\\InjiectionServices.Inject.csproj": {
+                "projectPath": "D:\\Vzeeta_Api\\InjiectionServices.Inject\\InjiectionServices.Inject.csproj"
               },
-              "D:\\Source\\Vzeeta.Data\\Vzeeta.Data.csproj": {
-                "projectPath": "D:\\Source\\Vzeeta.Data\\Vzeeta.Data.csproj"
+              "D:\\Vzeeta_Api\\Vzeeta.Data\\Vzeeta.Data.csproj": {
+                "projectPath": "D:\\Vzeeta_Api\\Vzeeta.Data\\Vzeeta.Data.csproj"
               },
-              "D:\\Source\\Vzeeta.Repository\\Vzeeta.Repository.csproj": {
-                "projectPath": "D:\\Source\\Vzeeta.Repository\\Vzeeta.Repository.csproj"
+              "D:\\Vzeeta_Api\\Vzeeta.Repository\\Vzeeta.Repository.csproj": {
+                "projectPath": "D:\\Vzeeta_Api\\Vzeeta.Repository\\Vzeeta.Repository.csproj"
               },
-              "D:\\Source\\Vzeeta.Services\\Vzeeta.Services.csproj": {
-                "projectPath": "D:\\Source\\Vzeeta.Services\\Vzeeta.Services.csproj"
+              "D:\\Vzeeta_Api\\Vzeeta.Services\\Vzeeta.Services.csproj": {
+                "projectPath": "D:\\Vzeeta_Api\\Vzeeta.Services\\Vzeeta.Services.csproj"
               }
             }
           }

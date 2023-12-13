@@ -13202,11 +13202,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Source\\VzeetaApp\\VzeetaApp.csproj",
+      "projectUniqueName": "D:\\Vzeeta_Api\\VzeetaApp\\VzeetaApp.csproj",
       "projectName": "VzeetaApp",
-      "projectPath": "D:\\Source\\VzeetaApp\\VzeetaApp.csproj",
+      "projectPath": "D:\\Vzeeta_Api\\VzeetaApp\\VzeetaApp.csproj",
       "packagesPath": "C:\\Users\\Wegdan\\.nuget\\packages\\",
-      "outputPath": "D:\\Source\\VzeetaApp\\obj\\",
+      "outputPath": "D:\\Vzeeta_Api\\VzeetaApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Wegdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -13223,17 +13223,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Source\\InjiectionServices.Inject\\InjiectionServices.Inject.csproj": {
-              "projectPath": "D:\\Source\\InjiectionServices.Inject\\InjiectionServices.Inject.csproj"
+            "D:\\Vzeeta_Api\\InjiectionServices.Inject\\InjiectionServices.Inject.csproj": {
+              "projectPath": "D:\\Vzeeta_Api\\InjiectionServices.Inject\\InjiectionServices.Inject.csproj"
             },
-            "D:\\Source\\Vzeeta.Data\\Vzeeta.Data.csproj": {
-              "projectPath": "D:\\Source\\Vzeeta.Data\\Vzeeta.Data.csproj"
+            "D:\\Vzeeta_Api\\Vzeeta.Data\\Vzeeta.Data.csproj": {
+              "projectPath": "D:\\Vzeeta_Api\\Vzeeta.Data\\Vzeeta.Data.csproj"
             },
-            "D:\\Source\\Vzeeta.Repository\\Vzeeta.Repository.csproj": {
-              "projectPath": "D:\\Source\\Vzeeta.Repository\\Vzeeta.Repository.csproj"
+            "D:\\Vzeeta_Api\\Vzeeta.Repository\\Vzeeta.Repository.csproj": {
+              "projectPath": "D:\\Vzeeta_Api\\Vzeeta.Repository\\Vzeeta.Repository.csproj"
             },
-            "D:\\Source\\Vzeeta.Services\\Vzeeta.Services.csproj": {
-              "projectPath": "D:\\Source\\Vzeeta.Services\\Vzeeta.Services.csproj"
+            "D:\\Vzeeta_Api\\Vzeeta.Services\\Vzeeta.Services.csproj": {
+              "projectPath": "D:\\Vzeeta_Api\\Vzeeta.Services\\Vzeeta.Services.csproj"
             }
           }
         }

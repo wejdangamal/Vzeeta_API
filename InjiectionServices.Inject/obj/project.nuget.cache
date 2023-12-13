@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KN9jbZA/jI5DXS+2lenyiJtg7rkr8wmVq8xD/Ag+WqtInQNx5nXQDJmJrOU0j6fUZhizUyMZNN+CzPfiF2n42Q==",
+  "dgSpecHash": "CdL0Dkw/ZWVJAg3l1BbWFGiW+4fOmQAjGQFCL6h4QVkIL8WfMrkdz6VFiBWtTDpelAvESRTiXXh2ufy6lMnnNA==",
   "success": true,
-  "projectFilePath": "D:\\Source\\InjiectionServices.Inject\\InjiectionServices.Inject.csproj",
+  "projectFilePath": "D:\\Vzeeta_Api\\InjiectionServices.Inject\\InjiectionServices.Inject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wegdan\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Wegdan\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

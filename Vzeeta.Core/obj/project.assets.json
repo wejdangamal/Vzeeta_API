@@ -1171,11 +1171,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Source\\Vzeeta.Core\\Vzeeta.Core.csproj",
+      "projectUniqueName": "D:\\Vzeeta_Api\\Vzeeta.Core\\Vzeeta.Core.csproj",
       "projectName": "Vzeeta.Core",
-      "projectPath": "D:\\Source\\Vzeeta.Core\\Vzeeta.Core.csproj",
+      "projectPath": "D:\\Vzeeta_Api\\Vzeeta.Core\\Vzeeta.Core.csproj",
       "packagesPath": "C:\\Users\\Wegdan\\.nuget\\packages\\",
-      "outputPath": "D:\\Source\\Vzeeta.Core\\obj\\",
+      "outputPath": "D:\\Vzeeta_Api\\Vzeeta.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Wegdan\\AppData\\Roaming\\NuGet\\NuGet.Config",

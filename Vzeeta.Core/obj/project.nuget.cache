@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c6EzfPDVCH9p8UESVqIMOVv7RshbaBoBFpn+PzKpTYgM3ydR6rebbPkaUxymYxrmsCuPgKrj6p0PoNBk3xfV5Q==",
+  "dgSpecHash": "xTJzaxcQBGG8W4ifS9kGYWGYJpz/FV2gH4auCpo1B7jyRNWAonN0KMK+s3K4uJ0d7aS2fm1xY4+4i5aPXHfomg==",
   "success": true,
-  "projectFilePath": "D:\\Source\\Vzeeta.Core\\Vzeeta.Core.csproj",
+  "projectFilePath": "D:\\Vzeeta_Api\\Vzeeta.Core\\Vzeeta.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wegdan\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\Wegdan\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",

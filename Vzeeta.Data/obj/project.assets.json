@@ -3217,11 +3217,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Source\\Vzeeta.Data\\Vzeeta.Data.csproj",
+      "projectUniqueName": "D:\\Vzeeta_Api\\Vzeeta.Data\\Vzeeta.Data.csproj",
       "projectName": "Vzeeta.Data",
-      "projectPath": "D:\\Source\\Vzeeta.Data\\Vzeeta.Data.csproj",
+      "projectPath": "D:\\Vzeeta_Api\\Vzeeta.Data\\Vzeeta.Data.csproj",
       "packagesPath": "C:\\Users\\Wegdan\\.nuget\\packages\\",
-      "outputPath": "D:\\Source\\Vzeeta.Data\\obj\\",
+      "outputPath": "D:\\Vzeeta_Api\\Vzeeta.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Wegdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3238,8 +3238,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Source\\Vzeeta.Core\\Vzeeta.Core.csproj": {
-              "projectPath": "D:\\Source\\Vzeeta.Core\\Vzeeta.Core.csproj"
+            "D:\\Vzeeta_Api\\Vzeeta.Core\\Vzeeta.Core.csproj": {
+              "projectPath": "D:\\Vzeeta_Api\\Vzeeta.Core\\Vzeeta.Core.csproj"
             }
           }
         }

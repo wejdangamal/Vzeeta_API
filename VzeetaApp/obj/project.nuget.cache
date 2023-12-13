@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kr3XYRfz3I9KR3dLP3mdBVKDpriDCcu8pg2e0UQgZBlQkpz+DIpLOqEn76dBMKEBD4U0uFc7AZ8vNmHNZS3fZQ==",
+  "dgSpecHash": "pXMJjW0vTzIJ1jMEEjnsW/dLHD74Vbbb+L9Y808U23UJycBwmWrgOWDrVYEBWrO8nrTeRlilGIXDZNI7z4IKWA==",
   "success": true,
-  "projectFilePath": "D:\\Source\\VzeetaApp\\VzeetaApp.csproj",
+  "projectFilePath": "D:\\Vzeeta_Api\\VzeetaApp\\VzeetaApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wegdan\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Wegdan\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -3704,11 +3704,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Source\\InjiectionServices.Inject\\InjiectionServices.Inject.csproj",
+      "projectUniqueName": "D:\\Vzeeta_Api\\InjiectionServices.Inject\\InjiectionServices.Inject.csproj",
       "projectName": "InjiectionServices.Inject",
-      "projectPath": "D:\\Source\\InjiectionServices.Inject\\InjiectionServices.Inject.csproj",
+      "projectPath": "D:\\Vzeeta_Api\\InjiectionServices.Inject\\InjiectionServices.Inject.csproj",
       "packagesPath": "C:\\Users\\Wegdan\\.nuget\\packages\\",
-      "outputPath": "D:\\Source\\InjiectionServices.Inject\\obj\\",
+      "outputPath": "D:\\Vzeeta_Api\\InjiectionServices.Inject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Wegdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3725,11 +3725,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Source\\Vzeeta.Repository\\Vzeeta.Repository.csproj": {
-              "projectPath": "D:\\Source\\Vzeeta.Repository\\Vzeeta.Repository.csproj"
+            "D:\\Vzeeta_Api\\Vzeeta.Repository\\Vzeeta.Repository.csproj": {
+              "projectPath": "D:\\Vzeeta_Api\\Vzeeta.Repository\\Vzeeta.Repository.csproj"
             },
-            "D:\\Source\\Vzeeta.Services\\Vzeeta.Services.csproj": {
-              "projectPath": "D:\\Source\\Vzeeta.Services\\Vzeeta.Services.csproj"
+            "D:\\Vzeeta_Api\\Vzeeta.Services\\Vzeeta.Services.csproj": {
+              "projectPath": "D:\\Vzeeta_Api\\Vzeeta.Services\\Vzeeta.Services.csproj"
             }
           }
         }
