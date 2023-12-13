@@ -3,7 +3,7 @@
 The API supports three roles: admin, doctor, and patient, each of them with specific Features.
 API secured using JWT Authentication
 API Provides Sending Emails Using Gmail
-# Features:
+#Features:
 ## Admin Role Features:
 ### Admin Dashboard:-
 - Dashboard with statistics (number of Doctors, Patients, Requests(Completed, Pending, Cancelled)).
