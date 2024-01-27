@@ -1,5 +1,6 @@
 # Vzeeta API:
 .NET Core Web API project simulating vzeeta.com. It's designed with onion architecture, ensuring adherence to clean code principles and SOLID design.
+- Can Test API From Here: http://wejdangamal-001-site1.ktempurl.com/swagger/index.html
 The API supports three roles: admin, doctor, and patient, each of them with specific Features.
 API secured using JWT Authentication
 API Provides Sending Emails Using Gmail
